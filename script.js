@@ -1,4 +1,4 @@
-// import { Game } from './Classes/Game.js';
+import { Game } from './Classes/Game.js';
 
 let container = document.querySelector('.container');
 
